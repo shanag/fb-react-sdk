@@ -2,12 +2,11 @@
 
 # Stay Classy, Facebook
 
-[FBgraph](http://criso.github.com/fbgraph/) is a nodejs module that provides easy access to the facebook graph api
+[fb-react-sdk](https://github.com/lordakshaya/fb-react-sdk) is a nodejs module that provides easy access to the facebook graph api
 
-[![npm downloads](https://img.shields.io/npm/dm/fbgraph.svg?style=flat-square)](https://www.npmjs.com/package/fbgraph)
+[![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/fb-react-sdk)
 
-
-### Version: 1.1.0
+### Version: 1.0.1
 
 ## Oh nooooooesss - MOAR facebook
 
@@ -19,9 +18,13 @@
 
 
 ## Installation via npm
-    $ npm install fbgraph
+    $ npm install fb-react-sdk
 
-    var graph = require('fbgraph');
+    var graph = require('fb-react-sdk');
+
+    // or
+
+    import graph from 'fb-react-sdk';
 
 ## Authentication
 
