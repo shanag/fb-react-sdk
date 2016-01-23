@@ -1,3 +1,5 @@
+# Note: fb-react-sdk is forked version from [FBgraph](http://criso.github.com/fbgraph/). The forked version is capable of working directly with your react application with no dependency on node.js. In other words, you can use this module in your React application that uses webpack or es6+. The rest of the documentation remains the same as FBgraph.
+
 # Stay Classy, Facebook
 
 [FBgraph](http://criso.github.com/fbgraph/) is a nodejs module that provides easy access to the facebook graph api
