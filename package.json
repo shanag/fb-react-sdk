@@ -1,6 +1,6 @@
 {
   "name": "fb-react-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Facebook Graph API client",
   "keywords": [
     "facebook",

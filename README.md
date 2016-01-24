@@ -6,7 +6,7 @@
 
 [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/fb-react-sdk)
 
-### Version: 1.0.1
+### Version: 1.0.3
 
 ## Oh nooooooesss - MOAR facebook
 
