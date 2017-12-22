@@ -1,6 +1,6 @@
 {
   "name": "fb-react-sdk",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Facebook Graph API client",
   "keywords": [
     "facebook",
@@ -8,27 +8,27 @@
     "graph",
     "react"
   ],
-  "author": "Akshaya Kumar Sharma <akshayakrsh@gmail.com>",
+  "author": "Shana Schundler <sschundler@gmail.com>",
   "main": "index",
   "dependencies": {
-    "lodash": "^4.0.0",
-    "qs": "^6.0.2",
-    "superagent": "^1.7.1"
+    "lodash": "^4.17.4",
+    "qs": "^6.5.1",
+    "superagent": "^3.8.2"
   },
   "devDependencies": {
     "vows": "0.7.x"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lordakshaya/fb-react-sdk.git"
+    "url": "git://github.com/shanag/fb-react-sdk.git"
   },
   "engines": {
     "node": ">= 0.12.7"
   },
   "bugs": {
-    "url": "https://github.com/lordakshaya/fb-react-sdk/issues"
+    "url": "https://github.com/shanag/fb-react-sdk/issues"
   },
-  "homepage": "https://github.com/lordakshaya/fb-react-sdk#readme",
+  "homepage": "https://github.com/shanag/fb-react-sdk#readme",
   "directories": {
     "test": "tests"
   },
